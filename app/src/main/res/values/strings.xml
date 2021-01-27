@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App_Mensajes_Firebase</string>
+    <string name="prefs_file">com.example.app_mensajes_firebase.FILE</string>
+</resources>
